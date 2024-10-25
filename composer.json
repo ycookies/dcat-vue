@@ -1,5 +1,5 @@
 {
-    "name": "weiwait/dcat-vue",
+    "name": "ycookies/dcat-vue",
     "alias": "",
     "description": "基于vue3构建的综合型扩展",
     "type": "library",
@@ -15,7 +15,7 @@
     "require": {
         "php": "^8.0",
         "laravel/framework": "^9.0|^10.0",
-        "dcat/laravel-admin": "~2.0",
+        "dcat-plus/laravel-admin": "~1.0",
         "iidestiny/laravel-filesystem-oss": "^3.1|4.0.0",
         "overtrue/laravel-filesystem-qiniu": "^2.1",
         "overtrue/laravel-filesystem-cos": "^3.1",
